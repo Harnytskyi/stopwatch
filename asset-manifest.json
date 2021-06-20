@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Harnytskyi/stopwatch/static/css/main.f2008018.chunk.css",
+    "main.js": "/Harnytskyi/stopwatch/static/js/main.d98d7019.chunk.js",
+    "main.js.map": "/Harnytskyi/stopwatch/static/js/main.d98d7019.chunk.js.map",
+    "runtime-main.js": "/Harnytskyi/stopwatch/static/js/runtime-main.f05ee674.js",
+    "runtime-main.js.map": "/Harnytskyi/stopwatch/static/js/runtime-main.f05ee674.js.map",
+    "static/js/2.c3962640.chunk.js": "/Harnytskyi/stopwatch/static/js/2.c3962640.chunk.js",
+    "static/js/2.c3962640.chunk.js.map": "/Harnytskyi/stopwatch/static/js/2.c3962640.chunk.js.map",
+    "static/js/3.5cb9c798.chunk.js": "/Harnytskyi/stopwatch/static/js/3.5cb9c798.chunk.js",
+    "static/js/3.5cb9c798.chunk.js.map": "/Harnytskyi/stopwatch/static/js/3.5cb9c798.chunk.js.map",
+    "index.html": "/Harnytskyi/stopwatch/index.html",
+    "static/css/main.f2008018.chunk.css.map": "/Harnytskyi/stopwatch/static/css/main.f2008018.chunk.css.map",
+    "static/js/2.c3962640.chunk.js.LICENSE.txt": "/Harnytskyi/stopwatch/static/js/2.c3962640.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f05ee674.js",
+    "static/js/2.c3962640.chunk.js",
+    "static/css/main.f2008018.chunk.css",
+    "static/js/main.d98d7019.chunk.js"
+  ]
+}
